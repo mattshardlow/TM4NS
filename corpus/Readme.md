@@ -14,7 +14,7 @@ The second field has 3 subfields, separated by spaces. The first subfield is a c
 
 An example is given below:
 
-  T1    Ionic_Current 82 94    leak current
+  "T1    Ionic_Current 82 94    leak current"
 
  - T1            is the term identifier (field 1)
  - Ionic_Current is the category identifier (field 2, subfield 1)
